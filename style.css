@@ -1,0 +1,57 @@
+/* Style général */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f6f8;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Conteneur principal */
+header, section {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* Header */
+header {
+    background-color: #0a2540;
+    color: #ffffff;
+    text-align: center;
+}
+
+header h1 {
+    margin-bottom: 5px;
+}
+
+header h2 {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+/* Liens */
+a {
+    color: #1abc9c;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Sections */
+section {
+    background-color: #ffffff;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+section h3 {
+    color: #0a2540;
+}
+
+/* Listes */
+ul {
+    padding-left: 20px;
+}
