@@ -11,7 +11,7 @@ et mon parcours académique.
 
 ## 🛠️ Technologies utilisées
 - HTML5
-- CSS3 (à venir)
+- CSS3
 
 ## 📁 Contenu du projet
 - `index.html` : structure et contenu du site
