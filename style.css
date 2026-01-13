@@ -61,14 +61,16 @@ ul {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #e8f0df;
+    background-color: #0a2540;
     padding: 30px;
     gap: 20px;
+    text-align:left;
 }
 
 /* Texte du header */
 .header-text {
     max-width: 70%;
+    text-align: left;
 }
 
 .header-text h1 {
@@ -93,4 +95,10 @@ ul {
     width: 160px;
     height: auto;
     border-radius: 5px;
+}
+
+.header-text h1,
+.header-text h2,
+.header-text p {
+    text-align: left;
 }
