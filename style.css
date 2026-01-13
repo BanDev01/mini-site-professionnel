@@ -55,3 +55,42 @@ section h3 {
 ul {
     padding-left: 20px;
 }
+
+/* Header type CV */
+.header-cv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #e8f0df;
+    padding: 30px;
+    gap: 20px;
+}
+
+/* Texte du header */
+.header-text {
+    max-width: 70%;
+}
+
+.header-text h1 {
+    margin: 0;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.header-text h2 {
+    margin: 10px 0;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.header-text p {
+    margin: 6px 0;
+    font-size: 15px;
+}
+
+/* Photo */
+.header-photo img {
+    width: 160px;
+    height: auto;
+    border-radius: 5px;
+}
